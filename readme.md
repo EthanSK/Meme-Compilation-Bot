@@ -13,4 +13,4 @@ You need to run composer install to install the libraries. Also give the entire 
 
 You may need to change some php config settings to allow for longer timeout idk, see what goes wrong, raise an issue if you have no clue.
 
-This bot is designed to be used with another of my projects, an automated youtube upload bot that uploads at designated time gaps, with comments and description etc all automatically filled out using youtube data api.
+This bot is designed to be used with another of my projects, an automated youtube upload bot that uploads at designated time gaps, with comments and description etc all automatically filled out using youtube data api: https://github.com/EthanSK/Youtube-Upload-Bot
