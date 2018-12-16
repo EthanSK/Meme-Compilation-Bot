@@ -93,7 +93,7 @@ if ($numberOfFinalVidsCreatedInCurrentSetTime >= $numberOfVidsToTryAndMakeADay &
 }
 
 
-if ($isThisCompilationInsane){
+if ($isThisCompilationInsane){ //this is just for anothre channel, so it creates for two different channnels
   $nameOfBackgroundFile = "background.mov";
   $nameOfWatermarkFile = "insanewatermark.png";
   $nameOfSubscribeTextFile = "empty.png";
