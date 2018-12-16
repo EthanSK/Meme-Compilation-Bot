@@ -1,0 +1,9 @@
+{
+    "name": "ethansarif-kattan/youtubebotphp",
+    "type": "project",
+    "require": {
+        "facebook/graph-sdk": "^5.4",
+        "google/apiclient": "^2.1",
+        "norkunas/youtube-dl-php": "^0.3.3"
+    }
+}
