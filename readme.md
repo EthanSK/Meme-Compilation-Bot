@@ -14,3 +14,7 @@ You need to run composer install to install the libraries. Also give the entire 
 You may need to change some php config settings to allow for longer timeout idk, see what goes wrong, raise an issue if you have no clue.
 
 This bot is designed to be used with another of my projects, an automated youtube upload bot that uploads at designated time gaps, with comments and description etc all automatically filled out using youtube data api: https://github.com/EthanSK/Youtube-Upload-Bot
+
+## License
+
+Source-available under [Ethan Source-Available No-Sale Terms 1.0](LICENSE). You can use and modify the covered code, including internally at work, and share it without charge. Selling the software, modified versions, paid access, or bundles requires a separate commercial license. Earlier licenses and third-party rights remain in force. See [scope and release policy](LICENSING.md).
